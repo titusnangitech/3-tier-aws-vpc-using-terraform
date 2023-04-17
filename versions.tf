@@ -1,4 +1,4 @@
-# Terraform Block
+//Terraform Block
 terraform {
   required_version = ">= 1.0"
   required_providers {
@@ -9,6 +9,6 @@ terraform {
   }
 }
 
-# Provider Block
+//Provider Block
 provider "aws" {
 }
